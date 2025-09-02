@@ -5,6 +5,12 @@ This is my project on Forecasting Autism Waiting Times.
 The purpose of this study is to analyze and forecast median waiting times for autism screening in England across two age groups: under 18 and 18 and over.
 The goal is to understand historical patterns, evaluate the impact of referrals on waiting times, and provide reliable forecasts to inform resource allocation and improve patient satisfaction.
 
+## How to run
+1. Open the `Research_Latest_code.sas` file in SAS Studio or your local SAS environment.  
+2. Ensure the dataset `ASD_waittime.csv` is also uploaded on SAS.  
+3. Update the file path in the SAS code if necessary.  
+4. Run the script to reproduce the exploratory analysis, regression, and ARIMA forecasting.  
+
 # Data Extraction
 Data source: Autism screening referral and waiting time data (April 2019 – September 2023).
 Data contains:
