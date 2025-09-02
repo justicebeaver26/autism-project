@@ -1,0 +1,163 @@
+REPORTING_PERIOD_START,REPORTING_PERIOD_END,BREAKDOWN,PRIMARY_LEVEL,Referrals,Referrals_excluding_RX3,Median_Wait_Days,Median_Wait_Days_excluding_RX3
+2019-04-01,2019-04-30,England,England,1956,1395,91.5,108
+2019-04-01,2019-04-30,England; Age Group (Higher Level),18 and over,550,390,49,99.5
+2019-04-01,2019-04-30,England; Age Group (Higher Level),Under 18,1406,1005,104,111
+2019-05-01,2019-05-31,England,England,2505,1877,105,121
+2019-05-01,2019-05-31,England; Age Group (Higher Level),18 and over,631,449,50,95
+2019-05-01,2019-05-31,England; Age Group (Higher Level),Under 18,1874,1428,120,126.5
+2019-06-01,2019-06-30,England,England,2859,2201,113,133
+2019-06-01,2019-06-30,England; Age Group (Higher Level),18 and over,700,523,57.5,93
+2019-06-01,2019-06-30,England; Age Group (Higher Level),Under 18,2159,1678,127,139.5
+2019-07-01,2019-07-31,England,England,3108,2438,119,138
+2019-07-01,2019-07-31,England; Age Group (Higher Level),18 and over,810,634,62,104.5
+2019-07-01,2019-07-31,England; Age Group (Higher Level),Under 18,2298,1804,134,146
+2019-08-01,2019-08-31,England,England,3079,2406,110,134
+2019-08-01,2019-08-31,England; Age Group (Higher Level),18 and over,943,750,61,115.5
+2019-08-01,2019-08-31,England; Age Group (Higher Level),Under 18,2136,1656,121,138
+2019-09-01,2019-09-30,England,England,3362,2716,111,136.5
+2019-09-01,2019-09-30,England; Age Group (Higher Level),18 and over,1147,941,67,122
+2019-09-01,2019-09-30,England; Age Group (Higher Level),Under 18,2215,1775,123,141
+2019-10-01,2019-10-31,England,England,3602,2962,117.5,151.5
+2019-10-01,2019-10-31,England; Age Group (Higher Level),18 and over,1291,1063,97,163
+2019-10-01,2019-10-31,England; Age Group (Higher Level),Under 18,2311,1899,122,145
+2019-11-01,2019-11-30,England,England,3933,3294,131,168
+2019-11-01,2019-11-30,England; Age Group (Higher Level),18 and over,1369,1139,112,189
+2019-11-01,2019-11-30,England; Age Group (Higher Level),Under 18,2564,2155,135,160
+2019-12-01,2019-12-31,England,England,3729,3097,131,167
+2019-12-01,2019-12-31,England; Age Group (Higher Level),18 and over,1285,1056,112,199
+2019-12-01,2019-12-31,England; Age Group (Higher Level),Under 18,2444,2041,134.5,155
+2020-01-01,2020-01-31,England,England,3846,3210,125,157.5
+2020-01-01,2020-01-31,England; Age Group (Higher Level),18 and over,1345,1114,118,193.5
+2020-01-01,2020-01-31,England; Age Group (Higher Level),Under 18,2501,2096,126,149.5
+2020-02-01,2020-02-29,England,England,3863,3213,128,161
+2020-02-01,2020-02-29,England; Age Group (Higher Level),18 and over,1384,1169,149.5,220
+2020-02-01,2020-02-29,England; Age Group (Higher Level),Under 18,2479,2044,125,144
+2020-03-01,2020-03-31,England,England,3787,3182,133,166
+2020-03-01,2020-03-31,England; Age Group (Higher Level),18 and over,1352,1164,167,244.5
+2020-03-01,2020-03-31,England; Age Group (Higher Level),Under 18,2435,2018,126,147
+2020-04-01,2020-04-30,England,England,2807,2379,156,197
+2020-04-01,2020-04-30,England; Age Group (Higher Level),18 and over,949,808,156,255.5
+2020-04-01,2020-04-30,England; Age Group (Higher Level),Under 18,1858,1571,156,182
+2020-05-01,2020-05-31,England,England,2154,1910,196,235
+2020-05-01,2020-05-31,England; Age Group (Higher Level),18 and over,702,586,146.5,254.5
+2020-05-01,2020-05-31,England; Age Group (Higher Level),Under 18,1452,1324,210,229
+2020-06-01,2020-06-30,England,England,1968,1836,240,256
+2020-06-01,2020-06-30,England; Age Group (Higher Level),18 and over,634,530,187,259
+2020-06-01,2020-06-30,England; Age Group (Higher Level),Under 18,1334,1306,250.5,255
+2020-07-01,2020-07-31,England,England,2418,2265,225,236
+2020-07-01,2020-07-31,England; Age Group (Higher Level),18 and over,907,799,205,230
+2020-07-01,2020-07-31,England; Age Group (Higher Level),Under 18,1511,1466,236,237
+2020-08-01,2020-08-31,England,England,2764,2551,216,225
+2020-08-01,2020-08-31,England; Age Group (Higher Level),18 and over,1055,929,185,212
+2020-08-01,2020-08-31,England; Age Group (Higher Level),Under 18,1709,1622,235,238
+2020-09-01,2020-09-30,England,England,3380,3118,214,219
+2020-09-01,2020-09-30,England; Age Group (Higher Level),18 and over,1237,1093,157,187
+2020-09-01,2020-09-30,England; Age Group (Higher Level),Under 18,2143,2025,235,237
+2020-10-01,2020-10-31,England,England,4512,3779,194,228
+2020-10-01,2020-10-31,England; Age Group (Higher Level),18 and over,1268,1126,146.5,184.5
+2020-10-01,2020-10-31,England; Age Group (Higher Level),Under 18,3244,2653,206,245
+2020-11-01,2020-11-30,England,England,5414,4487,198,245
+2020-11-01,2020-11-30,England; Age Group (Higher Level),18 and over,1361,1192,142,195
+2020-11-01,2020-11-30,England; Age Group (Higher Level),Under 18,4053,3295,209,258
+2020-12-01,2020-12-31,England,England,5586,4606,182,253.5
+2020-12-01,2020-12-31,England; Age Group (Higher Level),18 and over,1347,1161,121,190
+2020-12-01,2020-12-31,England; Age Group (Higher Level),Under 18,4239,3445,201,263
+2021-01-01,2021-01-31,England,England,5101,4503,235,268
+2021-01-01,2021-01-31,England; Age Group (Higher Level),18 and over,1298,1112,115,170.5
+2021-01-01,2021-01-31,England; Age Group (Higher Level),Under 18,3803,3391,266,287
+2021-02-01,2021-02-28,England,England,4857,4366,258,292
+2021-02-01,2021-02-28,England; Age Group (Higher Level),18 and over,1260,1094,112,167
+2021-02-01,2021-02-28,England; Age Group (Higher Level),Under 18,3597,3272,301,312
+2021-03-01,2021-03-31,England,England,5182,4633,298.5,319
+2021-03-01,2021-03-31,England; Age Group (Higher Level),18 and over,1312,1164,125.5,176.5
+2021-03-01,2021-03-31,England; Age Group (Higher Level),Under 18,3870,3469,324,336
+2021-04-01,2021-04-30,England,England,5511,4884,272,296
+2021-04-01,2021-04-30,England; Age Group (Higher Level),18 and over,1452,1264,137.5,220.5
+2021-04-01,2021-04-30,England; Age Group (Higher Level),Under 18,4059,3620,307,314
+2021-05-01,2021-05-31,England,England,6004,5301,243,259
+2021-05-01,2021-05-31,England; Age Group (Higher Level),18 and over,1611,1409,161,232
+2021-05-01,2021-05-31,England; Age Group (Higher Level),Under 18,4392,3891,274,274
+2021-06-01,2021-06-30,England,England,6327,5510,216,227
+2021-06-01,2021-06-30,England; Age Group (Higher Level),18 and over,1804,1557,177.5,232
+2021-06-01,2021-06-30,England; Age Group (Higher Level),Under 18,4522,3952,230,224
+2021-07-01,2021-07-31,England,England,6428,5570,203,213
+2021-07-01,2021-07-31,England; Age Group (Higher Level),18 and over,1846,1573,146,216
+2021-07-01,2021-07-31,England; Age Group (Higher Level),Under 18,4581,3996,217,212
+2021-08-01,2021-08-31,England,England,6011,5134,182,190
+2021-08-01,2021-08-31,England; Age Group (Higher Level),18 and over,1848,1536,114.5,182.5
+2021-08-01,2021-08-31,England; Age Group (Higher Level),Under 18,4163,3598,214,196
+2021-09-01,2021-09-30,England,England,5858,4992,167,176
+2021-09-01,2021-09-30,England; Age Group (Higher Level),18 and over,1840,1489,106,151
+2021-09-01,2021-09-30,England; Age Group (Higher Level),Under 18,4018,3503,202.5,182
+2021-10-01,2021-10-31,England,England,5974,5113,170.5,178
+2021-10-01,2021-10-31,England; Age Group (Higher Level),18 and over,1885,1528,103,133.5
+2021-10-01,2021-10-31,England; Age Group (Higher Level),Under 18,4089,3585,204,189
+2021-11-01,2021-11-30,England,England,6750,5818,179,182.5
+2021-11-01,2021-11-30,England; Age Group (Higher Level),18 and over,2069,1687,106,138
+2021-11-01,2021-11-30,England; Age Group (Higher Level),Under 18,4681,4131,210,194
+2021-12-01,2021-12-31,England,England,6537,5610,191,204
+2021-12-01,2021-12-31,England; Age Group (Higher Level),18 and over,1972,1575,101,140
+2021-12-01,2021-12-31,England; Age Group (Higher Level),Under 18,4564,4034,229.5,223.5
+2022-01-01,2022-01-31,England,England,6668,5651,201,216
+2022-01-01,2022-01-31,England; Age Group (Higher Level),18 and over,2037,1609,100,143
+2022-01-01,2022-01-31,England; Age Group (Higher Level),Under 18,4630,4041,245,239
+2022-02-01,2022-02-28,England,England,6423,5380,208,231
+2022-02-01,2022-02-28,England; Age Group (Higher Level),18 and over,1931,1487,94,152
+2022-02-01,2022-02-28,England; Age Group (Higher Level),Under 18,4491,3892,250,258
+2022-03-01,2022-03-31,England,England,7271,6167,210,231
+2022-03-01,2022-03-31,England; Age Group (Higher Level),18 and over,2162,1700,105,156
+2022-03-01,2022-03-31,England; Age Group (Higher Level),Under 18,5109,4467,245,255
+2022-04-01,2022-04-30,England,England,7413,6411,207,223
+2022-04-01,2022-04-30,England; Age Group (Higher Level),18 and over,2125,1682,106,161
+2022-04-01,2022-04-30,England; Age Group (Higher Level),Under 18,5288,4729,231,241
+2022-05-01,2022-05-31,England,England,7988,6998,201,216
+2022-05-01,2022-05-31,England; Age Group (Higher Level),18 and over,2241,1803,110,162
+2022-05-01,2022-05-31,England; Age Group (Higher Level),Under 18,5747,5195,223,229
+2022-06-01,2022-06-30,England,England,7772,6888,188,204
+2022-06-01,2022-06-30,England; Age Group (Higher Level),18 and over,2267,1877,131,189
+2022-06-01,2022-06-30,England; Age Group (Higher Level),Under 18,5505,5011,205,210
+2022-07-01,2022-07-31,England,England,7735,6783,184,203
+2022-07-01,2022-07-31,England; Age Group (Higher Level),18 and over,2466,2044,135,200
+2022-07-01,2022-07-31,England; Age Group (Higher Level),Under 18,5269,4739,202,204
+2022-08-01,2022-08-31,England,England,7213,6236,188,204
+2022-08-01,2022-08-31,England; Age Group (Higher Level),18 and over,2516,2093,139,203
+2022-08-01,2022-08-31,England; Age Group (Higher Level),Under 18,4697,4143,204,207
+2022-09-01,2022-09-30,England,England,7250,6210,196,211
+2022-09-01,2022-09-30,England; Age Group (Higher Level),18 and over,2631,2191,142,204
+2022-09-01,2022-09-30,England; Age Group (Higher Level),Under 18,4619,4019,213,220
+2022-10-01,2022-10-31,England,England,7426,6311,202,215
+2022-10-01,2022-10-31,England; Age Group (Higher Level),18 and over,2633,2199,161,214
+2022-10-01,2022-10-31,England; Age Group (Higher Level),Under 18,4793,4112,213,218
+2022-11-01,2022-11-30,England,England,8065,6936,211,226
+2022-11-01,2022-11-30,England; Age Group (Higher Level),18 and over,2812,2370,207,249
+2022-11-01,2022-11-30,England; Age Group (Higher Level),Under 18,5253,4566,213,215.5
+2022-12-01,2022-12-31,England,England,7882,6780,222,250
+2022-12-01,2022-12-31,England; Age Group (Higher Level),18 and over,2618,2200,227,305
+2022-12-01,2022-12-31,England; Age Group (Higher Level),Under 18,5264,4580,217,229
+2023-01-01,2023-01-31,England,England,8311,7316,244,275
+2023-01-01,2023-01-31,England; Age Group (Higher Level),18 and over,2736,2341,240,316
+2023-01-01,2023-01-31,England; Age Group (Higher Level),Under 18,5575,4975,244,255
+2023-02-01,2023-02-28,England,England,8364,7030,223,286
+2023-02-01,2023-02-28,England; Age Group (Higher Level),18 and over,3098,2267,166.5,301
+2023-02-01,2023-02-28,England; Age Group (Higher Level),Under 18,5266,4763,260,278
+2023-03-01,2023-03-31,England,England,9344,7716,225,302
+2023-03-01,2023-03-31,England; Age Group (Higher Level),18 and over,3678,2555,118,288
+2023-03-01,2023-03-31,England; Age Group (Higher Level),Under 18,5666,5161,298,305
+2023-04-01,2023-04-30,England,England,9057,7333,214,302
+2023-04-01,2023-04-30,England; Age Group (Higher Level),18 and over,3806,2591,91.5,316
+2023-04-01,2023-04-30,England; Age Group (Higher Level),Under 18,5251,4742,294,299
+2023-05-01,2023-05-31,England,England,9325,7848,237,294
+2023-05-01,2023-05-31,England; Age Group (Higher Level),18 and over,3841,2944,149,347
+2023-05-01,2023-05-31,England; Age Group (Higher Level),Under 18,5484,4904,281,273
+2023-06-01,2023-06-30,England,England,9485,8229,263,303
+2023-06-01,2023-06-30,England; Age Group (Higher Level),18 and over,3735,3102,226,372
+2023-06-01,2023-06-30,England; Age Group (Higher Level),Under 18,5750,5127,271,258
+2023-07-01,2023-07-31,England,England,10170,8995,278,309
+2023-07-01,2023-07-31,England; Age Group (Higher Level),18 and over,3803,3280,278,385.5
+2023-07-01,2023-07-31,England; Age Group (Higher Level),Under 18,6367,5715,278,267
+2023-08-01,2023-08-31,England,England,9997,9062,301,329
+2023-08-01,2023-08-31,England; Age Group (Higher Level),18 and over,3580,3217,343,403
+2023-08-01,2023-08-31,England; Age Group (Higher Level),Under 18,6417,5845,287,281
+2023-09-01,2023-09-30,England,England,9886,9013,300,321
+2023-09-01,2023-09-30,England; Age Group (Higher Level),18 and over,3607,3257,323,403
+2023-09-01,2023-09-30,England; Age Group (Higher Level),Under 18,6279,5756,295,286
