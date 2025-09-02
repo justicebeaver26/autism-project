@@ -6,7 +6,7 @@ The purpose of this study is to analyze and forecast median waiting times for au
 The goal is to understand historical patterns, evaluate the impact of referrals on waiting times, and provide reliable forecasts to inform resource allocation and improve patient satisfaction.
 
 ## How to run
-1. Open the `Research_Latest_code.sas` file in SAS Studio or your local SAS environment.  
+1. Open the `Research_Latest_code (1).sas` file in SAS Studio or your local SAS environment.  
 2. Ensure the dataset `ASD_waittime.csv` is also uploaded on SAS.  
 3. Update the file path in the SAS code if necessary.  
 4. Run the script to reproduce the exploratory analysis, regression, and ARIMA forecasting.  
