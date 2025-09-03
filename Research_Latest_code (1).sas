@@ -51,7 +51,7 @@ RUN;
 
 
 /* Creating Dataframes */
-DATA adult;
+DATA adults;
 SET waittime_clean;
 IF age_group = "18 and over";
 RENAME wait_time = wait_time_adults;
