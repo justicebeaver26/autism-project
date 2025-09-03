@@ -41,9 +41,10 @@ ARIMA (selected as the best performing model)
 ## Dashboards for Visualization 
 Interactive dashboards and plots were developed to show:
 1. Historical trends in waiting times.
-2. Comparison between children and adults.
-3. Correlation between referrals and waiting times.
-4. Forecasts of future waiting times.
+   ![Children Waiting Times](outputs/Autism children.png)
+3. Comparison between children and adults.
+4. Correlation between referrals and waiting times.
+5. Forecasts of future waiting times.
 
 ## Conclusion
 1. Children face longer but more stable waiting times compared to adults.
