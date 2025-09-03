@@ -46,9 +46,20 @@ Interactive dashboards and plots were developed to show:
    ![Children Waiting Times](outputs/Autism_children.png)
    ![Adults Waiting Times](outputs/Autism_adults.png)
    
-3. Comparison between children and adults.
-4. Correlation between referrals and waiting times.
-5. Forecasts of future waiting times.
+### 2. Comparison between children and adults.
+![Distribution Plots](outputs/Distribution_Autism.png)
+
+### 3. Covariance.
+![Covariance](outputs/Covariance_Analysis_Autism.png)
+
+### 4. Forecasts of future waiting times.
+#### Exponential Smoothing Model
+![ESM children](outputs/ESM_Forecasts_Children_Autism.png)
+![ESM adults](outputs/ESM_Forecasts_Adults_Autism.png)
+
+#### ARIMA Model
+![ARIMA children](outputs/ARIMA_Forecasts_Autism_Children.png)
+![ARIMA adults](outputs/ARIMA_Forecasts_Autism_Adults.png)
 
 ## Conclusion
 1. Children face longer but more stable waiting times compared to adults.
