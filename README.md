@@ -40,8 +40,11 @@ ARIMA (selected as the best performing model)
 
 ## Dashboards for Visualization 
 Interactive dashboards and plots were developed to show:
+
 1. Historical trends in waiting times.
-   ![Children Waiting Times](outputs/Autism%20children.png)
+   ![Children Waiting Times](outputs/Autism_children.png)
+   ![Adults Waiting Times](outputs/Autism_adults.png)
+   
 3. Comparison between children and adults.
 4. Correlation between referrals and waiting times.
 5. Forecasts of future waiting times.
